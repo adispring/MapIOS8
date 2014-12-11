@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BACEE78C-F33F-428A-9BB8-F707B69E509E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MapIOS8</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5C55DC5CE23B7D98E250CE2A58FAE25A357534DD</key>
+		<string>https://github.com/adispring/MapIOS8.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MapIOS8.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5C55DC5CE23B7D98E250CE2A58FAE25A357534DD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/adispring/MapIOS8.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5C55DC5CE23B7D98E250CE2A58FAE25A357534DD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5C55DC5CE23B7D98E250CE2A58FAE25A357534DD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MapIOS8</string>
+		</dict>
+	</array>
+</dict>
+</plist>
