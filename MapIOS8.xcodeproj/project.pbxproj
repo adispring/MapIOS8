@@ -14,6 +14,7 @@
 		C90882C31A3943B80014C7CF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C90882C21A3943B80014C7CF /* Images.xcassets */; };
 		C90882C61A3943B80014C7CF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C90882C41A3943B80014C7CF /* LaunchScreen.xib */; };
 		C90882D21A3943B80014C7CF /* MapIOS8Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = C90882D11A3943B80014C7CF /* MapIOS8Tests.m */; };
+		C90882DC1A3943CF0014C7CF /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C90882DB1A3943CF0014C7CF /* MapKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		C90882CB1A3943B80014C7CF /* MapIOS8Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MapIOS8Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C90882D01A3943B80014C7CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C90882D11A3943B80014C7CF /* MapIOS8Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MapIOS8Tests.m; sourceTree = "<group>"; };
+		C90882DB1A3943CF0014C7CF /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +49,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C90882DC1A3943CF0014C7CF /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +66,7 @@
 		C90882A91A3943B80014C7CF = {
 			isa = PBXGroup;
 			children = (
+				C90882DB1A3943CF0014C7CF /* MapKit.framework */,
 				C90882B41A3943B80014C7CF /* MapIOS8 */,
 				C90882CE1A3943B80014C7CF /* MapIOS8Tests */,
 				C90882B31A3943B80014C7CF /* Products */,

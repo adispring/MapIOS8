@@ -20,5 +20,7 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This will be used to obtain or track your location.</string>
 </dict>
 </plist>
